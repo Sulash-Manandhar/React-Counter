@@ -1,0 +1,36 @@
+body{
+    font-size: 18px;
+    max-width: 1200px;
+}
+
+.text-xxl{
+    font-size: 20px;
+    margin:0px 5px;
+}
+
+
+.row{
+    width: 100%;
+}
+
+.col{
+    display: inline-block;
+    width: 45%;
+    margin:5px;
+    outline: 1px solid black;
+    height: auto;
+    padding: 10px;
+}
+
+.col input{
+    width: 90%;
+    margin-top: 5px;
+    padding: 5px;
+}
+
+.itemName{
+    float:left
+}
+.itemPrice{
+    float: right;
+}
